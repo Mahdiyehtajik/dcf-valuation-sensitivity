@@ -1,0 +1,20 @@
+{
+  "_comment": "Illustrative mid-cap industrial company, EUR millions. Operating ratios are stylised; market inputs are typical euro-area figures. Replace with scripts/fetch_financials.py output for a real company.",
+  "revenue_0": 1200.0,
+  "revenue_growth": 0.05,
+  "ebit_margin": 0.12,
+  "tax_rate": 0.25,
+  "da_pct": 0.04,
+  "capex_pct": 0.05,
+  "nwc_pct": 0.10,
+  "risk_free": 0.028,
+  "equity_risk_premium": 0.055,
+  "beta": 1.10,
+  "cost_of_debt": 0.045,
+  "debt_weight": 0.30,
+  "terminal_growth": 0.02,
+  "years": 5,
+  "net_debt": 350.0,
+  "shares_outstanding": 80.0,
+  "mid_year": false
+}
